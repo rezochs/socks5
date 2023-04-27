@@ -51,6 +51,3 @@ allow_user_register=true<br>
 -2022.10.03 v2.0<br>
 1、增加多端口、多账号设置<br>
 -2022.09.03 v1.0<br>
-
-## 写在最后 ##
-Telegram交流群:https://t.me/Socks55555
